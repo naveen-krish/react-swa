@@ -4,9 +4,9 @@ import Counters from "./components/counters";
 
 function App() {
   return (
-    <>
+    <div>
       <Counters />
-    </>
+    </div>
   );
 }
 
